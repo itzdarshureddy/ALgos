@@ -36,6 +36,7 @@ public class SortZeroOneTwos {
                     input[mid++] = 1;
                 }else{
                     mid++;
+                    low++;
                 }
             }
         }
