@@ -5,6 +5,11 @@ import java.util.Scanner;
 
 /**
  * Created by dreddy on 7/19/15.
+ * input:
+ * 6
+ * 1 0 2 1 1 0
+ * Output:
+ * 0 0 1 1 1 2
  */
 public class SortZeroOneTwos {
     public static void main(String[] args){
